@@ -1,2 +1,2 @@
 # Grafico-com-biblioteca-Chart.js
-Created with CodeSandbox
+Link da documentação da biblioteca: https://www.chartjs.org/docs/latest/getting-started/
